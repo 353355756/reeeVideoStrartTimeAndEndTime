@@ -1,0 +1,1 @@
+var i=1; db.myvideos.find().forEach(function(o){o.index = i++; db.myvideos.save(o)});

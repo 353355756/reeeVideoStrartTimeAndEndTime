@@ -1,0 +1,19 @@
+{
+  "appenders": [
+    {
+      "category": "log",
+      "filename": "log.log",
+      "pattern": "-yyyy-MM-dd",
+      "type": "dateFile"
+    },
+    {
+      "category": "error",
+      "filename": "biz.log",
+      "pattern": "-yyyy-MM-dd",
+      "type": "dateFile"
+    },
+    {
+      "type": "console"
+    }
+  ]
+}

@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/353355756/reeeVideoStrartTimeAndEndTime/issues"
   },
-  "homepage": "https://github.com/353355756/reeeVideoStrartTimeAndEndTime#readme"
+  "homepage": "https://github.com/353355756/reeeVideoStrartTimeAndEndTime#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "co": "^4.6.0",
+    "lodash": "^4.11.2",
+    "log4js": "^0.6.35",
+    "mongoose": "^4.4.14",
+    "parallel-download": "^1.1.0",
+    "request-promise": "^3.0.0",
+    "thunkify": "^2.1.2"
+  }
 }

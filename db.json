@@ -1,0 +1,238 @@
+{
+  "tsfiles": [
+    {
+      "key": "ts/150814/CG00008/CA00018_1508140759550000500_0_002399.ts",
+      "tsfile": {
+        "_id": "55cd2f810cf293b1ddda2ddb",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00018_1508140759550000500_0_002399.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00018_1508140759550000500_0_002399.jpg",
+        "cameraCode": "CA00018",
+        "startTime": 1439510395000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00018_1508140759550000500_0_002399.ts",
+        "createTime": "2015-08-14T00:00:01.719Z",
+        "updateTime": "2015-08-14T00:00:01.719Z",
+        "tsFileName": "CA00018_1508140759550000500_0_002399.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00019_1508140759550000500_0_002399.ts",
+      "tsfile": {
+        "_id": "55cd2f810cf293b1ddda2ddc",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00019_1508140759550000500_0_002399.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00019_1508140759550000500_0_002399.jpg",
+        "cameraCode": "CA00019",
+        "startTime": 1439510395000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00019_1508140759550000500_0_002399.ts",
+        "createTime": "2015-08-14T00:00:01.719Z",
+        "updateTime": "2015-08-14T00:00:01.719Z",
+        "tsFileName": "CA00019_1508140759550000500_0_002399.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00017_1508140759550000500_0_002399.ts",
+      "tsfile": {
+        "_id": "55cd2f820cf293b1ddda2ddd",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00017_1508140759550000500_0_002399.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00017_1508140759550000500_0_002399.jpg",
+        "cameraCode": "CA00017",
+        "startTime": 1439510395000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00017_1508140759550000500_0_002399.ts",
+        "createTime": "2015-08-14T00:00:02.727Z",
+        "updateTime": "2015-08-14T00:00:02.727Z",
+        "tsFileName": "CA00017_1508140759550000500_0_002399.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00016_1508140759560000500_0_002399.ts",
+      "tsfile": {
+        "_id": "55cd2f820cf293b1ddda2dde",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00016_1508140759560000500_0_002399.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00016_1508140759560000500_0_002399.jpg",
+        "cameraCode": "CA00016",
+        "startTime": 1439510395000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00016_1508140759560000500_0_002399.ts",
+        "createTime": "2015-08-14T00:00:02.727Z",
+        "updateTime": "2015-08-14T00:00:02.727Z",
+        "tsFileName": "CA00016_1508140759560000500_0_002399.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00019_1508140800000000500_0_002400.ts",
+      "tsfile": {
+        "_id": "55cd2f860cf293b1ddda2ded",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00019_1508140800000000500_0_002400.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00019_1508140800000000500_0_002400.jpg",
+        "cameraCode": "CA00019",
+        "startTime": 1439510400000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00019_1508140800000000500_0_002400.ts",
+        "createTime": "2015-08-14T00:00:06.735Z",
+        "updateTime": "2015-08-14T00:00:06.735Z",
+        "tsFileName": "CA00019_1508140800000000500_0_002400.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00018_1508140800000000500_0_002400.ts",
+      "tsfile": {
+        "_id": "55cd2f860cf293b1ddda2dee",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00018_1508140800000000500_0_002400.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00018_1508140800000000500_0_002400.jpg",
+        "cameraCode": "CA00018",
+        "startTime": 1439510400000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00018_1508140800000000500_0_002400.ts",
+        "createTime": "2015-08-14T00:00:06.735Z",
+        "updateTime": "2015-08-14T00:00:06.735Z",
+        "tsFileName": "CA00018_1508140800000000500_0_002400.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00017_1508140800000000500_0_002400.ts",
+      "tsfile": {
+        "_id": "55cd2f870cf293b1ddda2df0",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00017_1508140800000000500_0_002400.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00017_1508140800000000500_0_002400.jpg",
+        "cameraCode": "CA00017",
+        "startTime": 1439510400000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00017_1508140800000000500_0_002400.ts",
+        "createTime": "2015-08-14T00:00:07.739Z",
+        "updateTime": "2015-08-14T00:00:07.739Z",
+        "tsFileName": "CA00017_1508140800000000500_0_002400.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00016_1508140800010000500_0_002400.ts",
+      "tsfile": {
+        "_id": "55cd2f870cf293b1ddda2df1",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00016_1508140800010000500_0_002400.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00016_1508140800010000500_0_002400.jpg",
+        "cameraCode": "CA00016",
+        "startTime": 1439510400000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00016_1508140800010000500_0_002400.ts",
+        "createTime": "2015-08-14T00:00:07.739Z",
+        "updateTime": "2015-08-14T00:00:07.739Z",
+        "tsFileName": "CA00016_1508140800010000500_0_002400.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00006/CA00013_1508141700120000500_9_009017.ts",
+      "tsfile": {
+        "_id": "55cdae240cf2c983904508ae",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00006/CA00013_1508141700120000500_9_009017.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00006/CA00013_1508141700120000500_9_009017.jpg",
+        "cameraCode": "CA00013",
+        "startTime": 1439542820000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00006/CA00013_1508141700120000500_9_009017.ts",
+        "createTime": "2015-08-14T09:00:20.95Z",
+        "updateTime": "2015-08-14T09:00:20.95Z",
+        "tsFileName": "CA00013_1508141700120000500_9_009017.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00006/CA00011_1508141700120000500_22_009017.ts",
+      "tsfile": {
+        "_id": "55cdae240cf2c983904508af",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00006/CA00011_1508141700120000500_22_009017.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00006/CA00011_1508141700120000500_22_009017.jpg",
+        "cameraCode": "CA00011",
+        "startTime": 1439542812000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00006/CA00011_1508141700120000500_22_009017.ts",
+        "createTime": "2015-08-14T09:00:20.95Z",
+        "updateTime": "2015-08-14T09:00:20.95Z",
+        "tsFileName": "CA00011_1508141700120000500_22_009017.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00006/CA00013_1508141700170000500_9_009018.ts",
+      "tsfile": {
+        "_id": "55cdae290cf2c983904508b2",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00006/CA00013_1508141700170000500_9_009018.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00006/CA00013_1508141700170000500_9_009018.jpg",
+        "cameraCode": "CA00013",
+        "startTime": 1439542817000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00006/CA00013_1508141700170000500_9_009018.ts",
+        "createTime": "2015-08-14T09:00:25.120Z",
+        "updateTime": "2015-08-14T09:00:25.120Z",
+        "tsFileName": "CA00013_1508141700170000500_9_009018.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00006/CA00011_1508141700170000500_22_009018.ts",
+      "tsfile": {
+        "_id": "55cdae290cf2c983904508b3",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00006/CA00011_1508141700170000500_22_009018.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00006/CA00011_1508141700170000500_22_009018.jpg",
+        "cameraCode": "CA00011",
+        "startTime": 1439542817000,
+        "durationTime": 5,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00006/CA00011_1508141700170000500_22_009018.ts",
+        "createTime": "2015-08-14T09:00:25.120Z",
+        "updateTime": "2015-08-14T09:00:25.120Z",
+        "tsFileName": "CA00011_1508141700170000500_22_009018.ts"
+      }
+    },
+    {
+      "key": "ts/150814/CG00008/CA00016_1508141702066000540_58_000000.ts",
+      "tsfile": {
+        "_id": "55cdae960cf2c98390450910",
+        "_class": "cn.reee.tss.model.vo.TSFileVo",
+        "uri": "http://qiniu.reee.cn/ts/150814/CG00008/CA00016_1508141702066000540_58_000000.ts",
+        "imageUri": "http://qiniu.reee.cn/image/ts/150814/CG00008/CA00016_1508141702066000540_58_000000.jpg",
+        "cameraCode": "CA00016",
+        "startTime": 1439542926000,
+        "durationTime": 5.4000000953674,
+        "uploadStatus": true,
+        "bucket": "rootsports",
+        "key": "ts/150814/CG00008/CA00016_1508141702066000540_58_000000.ts",
+        "createTime": "2015-08-14T09:02:14.505Z",
+        "updateTime": "2015-08-14T09:02:14.505Z",
+        "tsFileName": "CA00016_1508141702066000540_58_000000.ts"
+      }
+    }
+  ]
+}
