@@ -2,11 +2,11 @@
 // Production config
 module.exports = {
     mongodb: 'mongodb://localhost:27017/reee_development',
-    reeemongodb: 'mongodb://RootSport5:Sportpass2015@10.44.156.128:60010/reee_development',
+    reeemongodb: 'mongodb://loclhaot/reee_development',
     tss: {
-        host: '10.44.146.64',
+        host: 'localhost',
         port: '8080',
-        getTsFilePath: '/tss/getTsFile'
+        getTsFilePath: '/tss/getTsFilezz'
     },
     row:20
 };
